@@ -1,7 +1,5 @@
-# SMART-GARDEN
+# SMART GARDEN
 SMART PLANT MONITORING 🌹🚿 AND CONTROL SYSTEM
-
-# Smart Garden
 
 Smart Garden is a system designed to monitor and automate the irrigation and lighting for plants in a garden using Arduino and various sensors. The system ensures optimal plant health by providing appropriate irrigation and lighting based on environmental conditions. The project is implemented using Arduino C++.
 
